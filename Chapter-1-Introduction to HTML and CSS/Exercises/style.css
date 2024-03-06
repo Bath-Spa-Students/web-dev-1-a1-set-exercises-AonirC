@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+
+*{
+    margin: 2px;
+    padding: 5px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+body{
+    background-color: aliceblue;
+}
+
+header{
+    background-color: deeppink;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px 20px 30px;
+}
+
+h1{
+    font-size: 30px;
+    font-weight: 600px;
+    margin-bottom: 20px;
+
+}
+
+.hclass{
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+
+  
+.img-style{
+    width : 20px;
+    height: 40px;
+    image-align: center;
+    background-image: url(img/crinklecookies.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+} 
+    
+
+
+
+
+
+
+}
