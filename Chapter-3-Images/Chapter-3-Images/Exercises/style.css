@@ -1,0 +1,14 @@
+
+div.mycontainer {
+    width:100%;
+    overflow:auto;
+  }
+  div.mycontainer div {
+    width:33%;  
+    float:left;
+    padding: 10;
+  }
+body {
+  margin: 0; 
+  width: max-content;
+}
